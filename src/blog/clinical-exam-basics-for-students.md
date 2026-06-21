@@ -1,14 +1,14 @@
 ---
-title: "Clinical exam basics every student needs"
+title: Clinical exam basics every student needs
 date: 2026-06-03
-category: "For Students"
-cover: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=1200&q=80"
-excerpt: "A friendly refresher on the head-to-tail exam, with memory aids that stick."
-author: "Dr. Rashmi Sonawane"
-readTime: "9 min read"
+category: For Students
+cover: https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=1200&q=80
+excerpt: A friendly refresher on the head-to-tail exam, with memory aids that stick!
+author: Dr. Rashmi Sonawane
+readTime: 9 min read
 ---
 
-The physical exam is the one skill you'll use every single day in practice. The trick isn't memorizing more — it's doing the same thorough sequence *every time* so nothing gets missed. Here's the framework I wish I'd locked in earlier.
+The physical exam is the one skill you'll use every single day in practice. The trick isn't memorizing more — it's doing the same thorough sequence _every time_ so nothing gets missed. Here's the framework I wish I'd locked in earlier.
 
 ## Start before you touch the patient
 
@@ -34,4 +34,4 @@ A consistent record makes patterns jump out on the recheck — and protects you.
 
 ## The real secret
 
-Repetition. Examine every healthy animal you can so the *abnormal* announces itself. Normal has to live in your hands before you can recognize the exceptions.
+Repetition - Examine every healthy animal you can so the _abnormal_ announces itself. Normal has to live in your hands before you can recognize the exceptions.
