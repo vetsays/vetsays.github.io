@@ -1,0 +1,14 @@
+{
+  "name": "vetsays",
+  "version": "1.0.0",
+  "private": true,
+  "description": "vetsays — pet care & education site with a blog the author edits from a browser.",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

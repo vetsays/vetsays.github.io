@@ -1,0 +1,29 @@
+---
+layout: base.njk
+title: "Articles — vetsays"
+description: "All pet care articles and vet-student resources from Dr. Rashmi Sonawane."
+permalink: "/blog/"
+---
+
+  <section class="section articles">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">From the blog</span>
+        <h2>All pet care reads</h2>
+        <p>Every article, freshest first — practical pet care and exam-ready notes for students.</p>
+      </div>
+      <div class="card-grid">
+        {% for post in collections.posts %}
+        <a class="card reveal" href="{{ post.url }}">
+          <div class="thumb"><img src="{{ post.data.cover }}" alt="{{ post.data.title }}" /></div>
+          <div class="body">
+            <span class="tag">{{ post.data.category }}</span>
+            <h3>{{ post.data.title }}</h3>
+            <p>{{ post.data.excerpt }}</p>
+            <div class="meta">{{ post.data.author }} <span class="dot"></span> {{ post.data.readTime }}</div>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
