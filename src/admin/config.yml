@@ -6,8 +6,7 @@ backend:
   repo: vetsays/vetsays.github.io
   branch: main
   # OAuth helper that lets GitHub login work on a static site.
-  # Replace this with your deployed worker URL (see SETUP.md, step 3).
-  base_url: https://REPLACE-WITH-YOUR-WORKER.workers.dev
+  base_url: https://sveltia-cms-auth.thevetsays.workers.dev
 
 # Where uploaded images are committed, and the URL they're served from.
 media_folder: "src/assets/blog"
